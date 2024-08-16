@@ -9,9 +9,9 @@
 # Content
 * [Download & Install Git (Windows Only)](https://git-scm.com/download/win)
 * [Download & Install Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html)
-* [Download & Install VSCode](https://code.visualstudio.com/download)
-* [Getting started with VSCode](https://code.visualstudio.com/docs/introvideos/basics)
-* [`python` environments in VSCode](https://code.visualstudio.com/docs/python/environments)
+* [Download & Install VS Code](https://code.visualstudio.com/download)
+* [Getting started with VS Code](https://code.visualstudio.com/docs/introvideos/basics)
+* [`python` environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 * [VS Code Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-marketplace)
 * Install the following extensions in VS Code by searching for the following Extension IDs:
 	* `ms-python.python`
@@ -23,9 +23,9 @@
 
 [![Python for Beginners - Learn Python in 1 Hour](https://img.youtube.com/vi/QJo57-pmcuM/0.jpg)](https://www.youtube.com/watch?v=QJo57-pmcuM)
 
-# Python
+# Python Course
 
-1. Open VSCode
+1. Open VS Code
 2. Press **⇧ + Ctrl + P** (Windows) or **⇧ + ⌘ + P** (Mac) and the Command Pallet will appear
 3. Type "Git Clone" and select the option that appears
 4. Create a folder called "dev" in your Documents. This is where you will save your coding projects.
