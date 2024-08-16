@@ -1,7 +1,7 @@
 # Prerequisites
 - None
 
- Objectives
+# Objectives
 - Set up VS Code for Python development
 - Set up VS Code to run Jupyter Notebooks
 - Develop an understanding of basic Python
