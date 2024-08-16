@@ -1,4 +1,4 @@
-> **Prerequisites:**
+# **Prerequisites:**
 - None
 
 > **Objectives**
@@ -6,7 +6,7 @@
 - Set up VS Code to run Jupyter Notebooks
 - Develop an understanding of basic Python
 
-> **Content**
+# **Content**
 * [Download & Install Git (Windows Only)](https://git-scm.com/download/win)
 * [Download & Install Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html)
 * [Download & Install VSCode](https://code.visualstudio.com/download)
@@ -23,7 +23,7 @@
 
 [![Python for Beginners - Learn Python in 1 Hour](https://img.youtube.com/vi/QJo57-pmcuM/0.jpg)](https://www.youtube.com/watch?v=QJo57-pmcuM)
 
-# `python-couse` 
+# Python
 
 1. Open VSCode
 2. Press **⇧ + Ctrl + P** (Windows) or **⇧ + ⌘ + P** (Mac) and the Command Pallet will appear
