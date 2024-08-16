@@ -1,6 +1,9 @@
 # `ds-training` 📓
 > *A collection of open source training material for actuaries (or anyone) to up-skill in data science*
 
+![image](https://github.com/user-attachments/assets/88e1fc11-d8b6-4ffd-8791-8d9f544d3cdb)
+
+
 ## AI Coding Assistants
 - [GitHub Copilot](./GitHub%20Copilot.md)
 
