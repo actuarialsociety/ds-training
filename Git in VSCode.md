@@ -1,6 +1,7 @@
 [Reference Material](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
-[![https://img.youtube.com/vi/i_23KUAEtUM/0.jpg](https://www.youtube.com/watch?v=i_23KUAEtUM)
+
+![(https://img.youtube.com/vi/i_23KUAEtUM/0.jpg)](https://www.youtube.com/watch?v=i_23KUAEtUM)
 
 ![https://img.youtube.com/vi/E6ADS2k8oNQ/0.jpg](https://www.youtube.com/watch?v=E6ADS2k8oNQ)
 
