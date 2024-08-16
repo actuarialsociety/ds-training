@@ -1,5 +1,5 @@
 # `ds-training` 📓
-> *A  collection of open source training material to upskill in data science*
+> *A collection of open source training material for actuaries (or anyone) to up-skill in data science*
 
 ## AI Coding Assistants
 - [GitHub Copilot](./GitHub%20Copilot.md)
@@ -15,7 +15,7 @@
 - [Windows Subsystem Linux](./Windows%20Subsystem%20Linux.md)
 
 ## Version Control
-- [Git in VSCode](./Git%20in%20VSCode.md)
+- [Git in VS Code](./Git%20in%20VS%20Code.md)
 - [Source control tips playlist](./Source%20control%20tips%20playlist.md)
 
 ## Databases
