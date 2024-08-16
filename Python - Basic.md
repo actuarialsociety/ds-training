@@ -1,12 +1,12 @@
-# **Prerequisites:**
+# Prerequisites
 - None
 
-> **Objectives**
+ Objectives
 - Set up VS Code for Python development
 - Set up VS Code to run Jupyter Notebooks
 - Develop an understanding of basic Python
 
-# **Content**
+# Content
 * [Download & Install Git (Windows Only)](https://git-scm.com/download/win)
 * [Download & Install Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html)
 * [Download & Install VSCode](https://code.visualstudio.com/download)
