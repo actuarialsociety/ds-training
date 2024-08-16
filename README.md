@@ -31,7 +31,7 @@
 - [Remote Development in VS Code](./Remote%20Development%20in%20VS%20Code.md)
 - [Devcontainers in VS Code](./Devcontainers%20in%20VS%20Code.md)
 
-### Advanced Tools
+### AI Coding Assistants
 - [GitHub Copilot](./GitHub%20Copilot.md)
 
 ### Documentation
