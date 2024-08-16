@@ -1,2 +1,2 @@
 # `ds-training`
-A repository of open source training material to upskill in data science
+A  collection of open source training material to upskill in data science
