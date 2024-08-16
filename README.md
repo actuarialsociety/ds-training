@@ -1,9 +1,6 @@
 # `ds-training` 📓
 > A  collection of open source training material to upskill in data science
 
-
-
-
 ## Getting Started
 - [Terminal in Windows](./Terminal%20in%20Windows.md)
 - [Terminal in Mac](./Terminal%20in%20Mac.md)
@@ -13,6 +10,9 @@
 ## Python Fundamentals
 - [Python - Basic](./Python%20-%20Basic.md)
 - [Python - Intermediate](./Python%20-%20Intermediate.md)
+
+## AI Coding Assistants
+- [GitHub Copilot](./GitHub%20Copilot.md)
 
 
 ## Version Control
@@ -36,9 +36,6 @@
 - [Remote Development in VS Code](./Remote%20Development%20in%20VS%20Code.md)
 - [Devcontainers in VS Code](./Devcontainers%20in%20VS%20Code.md)
 
-
-## AI Coding Assistants
-- [GitHub Copilot](./GitHub%20Copilot.md)
 
 
 ## Documentation
