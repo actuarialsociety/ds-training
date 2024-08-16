@@ -41,6 +41,6 @@
 - [GitHub Copilot](./GitHub%20Copilot.md)
 ---
 
-a### Documentation
+### Documentation
 - [Markdown](./Markdown.md)
 ---
