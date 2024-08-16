@@ -1,5 +1,5 @@
 # `ds-training` 📓
-> A  collection of open source training material to upskill in data science
+>_ A  collection of open source training material to upskill in data science_
 
 ## AI Coding Assistants
 - [GitHub Copilot](./GitHub%20Copilot.md)
