@@ -1,4 +1,4 @@
-§<img src="https://www.actuarialsociety.org.za/wp-content/uploads/2024/01/ASSA-LOGO-20224-e1704698493878.png" width="500" >
+<img src="https://www.actuarialsociety.org.za/wp-content/uploads/2024/01/ASSA-LOGO-20224-e1704698493878.png" width="500" >
 
 # `ds-training` 
 > *A collection of open-source training material for actuaries (or anyone) to up-skill in data science*
