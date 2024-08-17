@@ -9,7 +9,7 @@
 * [Plotly Basic Chats](https://plotly.com/python/basic-charts/)
 * [Plotly Fundermentals](https://plotly.com/python/plotly-fundamentals/)
 * Streamlit
-* APIs in Python
+* [How to build an API in Python](https://blog.postman.com/how-to-build-an-api-in-python/)
 * [Lambda Functions](https://www.youtube.com/shorts/kwUcBRGoHYw)
 * [Diff Files in VS Code](https://www.youtube.com/shorts/5qZzNwldkb8)
 
