@@ -1,8 +1,8 @@
 # Prerequisites
-- None
+- [Python Basics](./Python - Basic.md)
 
 # Objectives
-- Comfort with VS Code terminal on Windows
+- Comfort with intermediate data science tools in Python
   
 # Content
 * [ Scikit-learn course by INRIA](https://inria.github.io/scikit-learn-mooc/)
