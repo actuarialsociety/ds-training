@@ -8,7 +8,7 @@
 * [ Scikit-learn course by INRIA](https://inria.github.io/scikit-learn-mooc/)
 * [Plotly Basic Chats](https://plotly.com/python/basic-charts/)
 * [Plotly Fundermentals](https://plotly.com/python/plotly-fundamentals/)
-* Streamlit
+* [Create a Streamlit App](https://docs.streamlit.io/get-started/tutorials/create-an-app)
 * [How to build an API in Python](https://blog.postman.com/how-to-build-an-api-in-python/)
 * [Lambda Functions](https://www.youtube.com/shorts/kwUcBRGoHYw)
 * [Diff Files in VS Code](https://www.youtube.com/shorts/5qZzNwldkb8)
