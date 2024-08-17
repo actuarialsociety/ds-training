@@ -17,7 +17,7 @@
 - [Python - Intermediate](./Python%20-%20Intermediate.md): Advanced Python concepts for data science
 - [PyData Stack](./PyData%20Stack.md): Essential Python libraries for data analysis (NumPy, Pandas, Matplotlib, etc.)
 
-## Version Control
+## Source Control
 - [Git in VS Code](./Git%20in%20VS%20Code.md): Using Git version control within VS Code
 - [Source control tips playlist](./Source%20control%20tips%20playlist.md): Collection of best practices for source control
 
