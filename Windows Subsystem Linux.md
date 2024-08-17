@@ -2,7 +2,7 @@
 - Previous Core Skills
 
 # Objectives
-- Comfort with VS Code terminal on Windows
+- Comfort with Linux on Windows with WSL
   
 # Content
 * [How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
