@@ -14,8 +14,8 @@
 - [Windows Subsystem for Linux](./Windows%20Subsystem%20Linux.md) (Optional): Linux on Windows; Linux is developer standard ￫ what servers run!
 
 ## Python for Data Science
-- [Python - Intermediate](./Python%20-%20Intermediate.md): Advanced Python concepts for data science
 - [PyData Stack](./PyData%20Stack.md): Essential Python libraries for data analysis (NumPy, Pandas, Matplotlib, etc.)
+- [Python - Advanced](./Python%20-%20Intermediate.md): Advanced Python concepts for data science
 
 ## Source Control
 - [Git in VS Code](./Git%20in%20VS%20Code.md): Using Git version control within VS Code
