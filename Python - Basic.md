@@ -16,15 +16,17 @@
 * Install the following extensions in VS Code by searching for the following Extension IDs:
 	* `ms-python.python`
 	* `ms-toolsai.jupyter`
+   
+### Get started with Jupyter Notebooks in less than 4 minutes
+[![Get started with Jupyter Notebooks in less than 4 minutes](https://img.youtube.com/vi/h1sAzPojKMg/0.jpg)](https://www.youtube.com/watch?v=h1sAzPojKMg)
 
-[![Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]](https://img.youtube.com/vi/h1sAzPojKMg/0.jpg)](https://www.youtube.com/watch?v=h1sAzPojKMg)
-
+### Jupyter Notebook Walkthrough
 [![Jupyter Notebook Walkthrough](https://img.youtube.com/vi/DA6ZAHBPF1U/0.jpg)](https://www.youtube.com/watch?v=DA6ZAHBPF1U&t=23s)
 
-[![Python for Beginners - Learn Python in 1 Hour](https://img.youtube.com/vi/QJo57-pmcuM/0.jpg)](https://www.youtube.com/watch?v=QJo57-pmcuM)
+### Jupyter Notebooks Can Do That?
+[![Jupyter Notebooks Can Do That?](https://img.youtube.com/vi/QJo57-pmcuM/0.jpg)](https://www.youtube.com/watch?v=QJo57-pmcuM)
 
-# Python Course
-
+### Clone Python Course Repository (Repo)
 1. Open VS Code
 2. Press **⇧ + Ctrl + P** (Windows) or **⇧ + ⌘ + P** (Mac) and the Command Pallet will appear
 3. Type "Git Clone" and select the option that appears
