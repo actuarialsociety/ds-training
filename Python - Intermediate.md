@@ -9,12 +9,10 @@
 * [Plotly Basic Chats](https://plotly.com/python/basic-charts/)
 * [Plotly Fundermentals](https://plotly.com/python/plotly-fundamentals/)
 * Streamlit
-* APIs in Ppython
-
-### Lambda Functions
+* APIs in Python
 * [lambda functions](https://www.youtube.com/shorts/kwUcBRGoHYw)
 
-### Diff Files in VS Code
-* [Diff Files in VS Code](https://www.youtube.com/shorts/5qZzNwldkb8)
+
+
 
 
