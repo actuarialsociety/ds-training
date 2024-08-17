@@ -19,7 +19,7 @@
 
 ## Source Control
 - [Git in VS Code](./Git%20in%20VS%20Code.md): Using Git version control within VS Code
-- [Source control tips playlist](./Source%20control%20tips%20playlist.md): Collection of best practices for source control
+- [Source control tips playlist](./Source%20control%20tips%20playlist.md) (Optional): Collection of best practices for source control
 
 ## Databases
 - [SQL Basics](./SQL%20Basics.md): Fundamentals of Structured Query Language
