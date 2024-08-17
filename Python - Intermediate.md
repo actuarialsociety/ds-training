@@ -10,7 +10,7 @@
 * [Plotly Fundermentals](https://plotly.com/python/plotly-fundamentals/)
 * Streamlit
 * APIs in Python
-* [lambda functions](https://www.youtube.com/shorts/kwUcBRGoHYw)
+* [Lambda Functions](https://www.youtube.com/shorts/kwUcBRGoHYw)
 
 
 
