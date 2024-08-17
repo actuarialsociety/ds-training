@@ -19,7 +19,7 @@
 
 [![Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]](https://img.youtube.com/vi/h1sAzPojKMg/0.jpg)](https://www.youtube.com/watch?v=h1sAzPojKMg)
 
-[![Python Tutorial - Python Full Course for Beginners](https://img.youtube.com/vi/DA6ZAHBPF1U/0.jpg)](https://www.youtube.com/watch?v=DA6ZAHBPF1U&t=23s)
+[![Jupyter Notebook Walkthrough](https://img.youtube.com/vi/DA6ZAHBPF1U/0.jpg)](https://www.youtube.com/watch?v=DA6ZAHBPF1U&t=23s)
 
 [![Python for Beginners - Learn Python in 1 Hour](https://img.youtube.com/vi/QJo57-pmcuM/0.jpg)](https://www.youtube.com/watch?v=QJo57-pmcuM)
 
