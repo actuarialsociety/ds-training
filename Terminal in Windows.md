@@ -2,7 +2,7 @@
 - None
 
 # Objectives
-- Comfort with VS Code terminal
+- Comfort with VS Code terminal on Windows
   
 # Content
 * [Integrated Terminal in VSCode](https://code.visualstudio.com/docs/terminal/basics)
