@@ -1,4 +1,4 @@
-<img src="https://www.actuarialsociety.org.za/wp-content/uploads/2024/01/ASSA-LOGO-20224-e1704698493878.png" width="500" >
+§<img src="https://www.actuarialsociety.org.za/wp-content/uploads/2024/01/ASSA-LOGO-20224-e1704698493878.png" width="500" >
 
 # `ds-training` 
 > *A collection of open-source training material for actuaries (or anyone) to up-skill in data science*
@@ -11,7 +11,7 @@
 - [GitHub Copilot](./GitHub%20Copilot.md): AI coding assistant
 - [Terminal in Windows](./Terminal%20in%20Windows.md): Command-line interface with Windows
 - [Terminal in Mac](./Terminal%20in%20Mac.md): Command-line interface with MacOS
-- [Windows Subsystem for Linux](./Windows%20Subsystem%20Linux.md) (Optional): Linux on Windows, since Linux is developer standard ￫ what servers run
+- [Windows Subsystem for Linux](./Windows%20Subsystem%20Linux.md) (Optional): Linux on Windows, since Linux is developer standard ￫ what servers run!
 
 ## Python for Data Science
 - [Python - Intermediate](./Python%20-%20Intermediate.md): Advanced Python concepts for data science
