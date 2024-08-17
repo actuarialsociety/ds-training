@@ -11,7 +11,7 @@
 - [GitHub Copilot](./GitHub%20Copilot.md): AI coding assistant
 - [Terminal in Windows](./Terminal%20in%20Windows.md): Command-line interface with Windows
 - [Terminal in Mac](./Terminal%20in%20Mac.md): Command-line interface with MacOS
-- [Windows Subsystem Linux](./Windows%20Subsystem%20Linux.md): Linux Subsystem for Windows ￫ Linux is often used as a developer standard as it is what servers use
+- **OPTIONAL:** [Windows Subsystem Linux](./Windows%20Subsystem%20Linux.md): Linux is developer standard (what servers run)
 
 ## Python for Data Science
 - [Python - Intermediate](./Python%20-%20Intermediate.md): Advanced Python concepts for data science
