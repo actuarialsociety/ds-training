@@ -11,7 +11,7 @@
 * [Download & Install Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html)
 * [Download & Install VS Code](https://code.visualstudio.com/download)
 * [Getting started with VS Code](https://code.visualstudio.com/docs/introvideos/basics)
-* [`python` environments in VS Code](https://code.visualstudio.com/docs/python/environments)
+* [Python Environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 * [VS Code Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-marketplace)
 * Install the following extensions in VS Code by searching for the following Extension IDs:
 	* `ms-python.python`
