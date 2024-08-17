@@ -5,11 +5,9 @@
 - Comfort with VS Code terminal on Windows
   
 # Content
+![ Scikit-learn course by INRIA](https://inria.github.io/scikit-learn-mooc/)
+---
 
-```
-#TODO 
-```
-- `sklearn`
 - `plotyly`
 - `streamlit`
 - APIs in `python`
