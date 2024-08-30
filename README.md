@@ -10,7 +10,7 @@
 ## Core Skills
 - [Python - Basic](./Python%20-%20Basic.md): VS Code setup & Python basics
 - [GitHub Copilot](./GitHub%20Copilot.md): Leading commercial AI code assistant
-- [Continue](./Continue.md): Leading open-source AI code assistant
+- [Continue](./Continue.md) (Optional): Leading open-source AI code assistant
 - [Terminal in Windows](./Terminal%20in%20Windows.md): Command-line interface with Windows
 - [Terminal in Mac](./Terminal%20in%20Mac.md): Command-line interface with MacOS
 - [Windows Subsystem for Linux](./Windows%20Subsystem%20Linux.md) (Optional): Linux on Windows; Linux is developer standard ￫ what servers run!
