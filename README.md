@@ -3,7 +3,7 @@
 # `ds-training` 
 > *A collection of open-source training material for actuaries (or anyone) to up-skill in data science*
 > * *[VS Code](https://code.visualstudio.com/) is used to enhance developer experience; the correct extensions can make a world of difference!*
-> * *AI code assistants, such as [GitHub Copilot](https://github.com/features/copilot) or [Continue](https://www.continue.dev/), are an essential tool for learning*
+> * *AI code assistants, such as [GitHub Copilot](https://github.com/features/copilot) or [Continue](https://www.continue.dev/), are an essential tools for learning*
 
 ![](https://media.giphy.com/media/zIOdLMZDcBDc2gk6vV/giphy.gif?cid=790b76115z20caqim0bzt56valpecg67mpo2wh0kazib6z0u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
