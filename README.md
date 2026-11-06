@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/actuarialsociety/ds-training/main/assets/assa-logo.png" alt="Actuarial Society of South Africa" width="500">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/actuarialsociety/ds-training/main/assets/assa-logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/actuarialsociety/ds-training/main/assets/assa-logo-light.png">
+  <img src="https://raw.githubusercontent.com/actuarialsociety/ds-training/main/assets/assa-logo-light.png" alt="Actuarial Society of South Africa" width="500">
+</picture>
 
 # `ds-training` 
 > *A collection of open-source training material for actuaries (or anyone) to up-skill in data science*
