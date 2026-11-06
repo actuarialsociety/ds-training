@@ -1,3 +1,0 @@
-{"permissions": {
-  "allow": ["Bash(python3 scripts/check_links.py:*)", "Bash(python3 scripts/yt_block.py:*)", "Bash(gh repo view:*)"],
-  "deny": ["Read(./.env)"]}}
