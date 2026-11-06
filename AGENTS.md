@@ -49,6 +49,10 @@ still work and keep each lesson short.
   to an `## Older content` section at the end of the lesson, as
   `Devcontainers in VS Code.md` does.
 
+- The [GitHub wiki](https://github.com/actuarialsociety/ds-training/wiki) is
+  **generated** from the root `.md` files. Edit lessons in the repo, never in
+  the wiki. `AGENTS.md` and `CLAUDE.md` are not published.
+
 ### 4. Workflows
 
 | Task | How |
@@ -57,6 +61,7 @@ still work and keep each lesson short.
 | Refresh lessons | `/refresh-lessons [file]` ([skill](.claude/skills/refresh-lessons/SKILL.md)) |
 | Check links | `python3 scripts/check_links.py` (CI runs it weekly and on every PR) |
 | Update Exa skills | `scripts/update_exa_skills.sh` |
+| Publish wiki | Automatic on push to `main` ([wiki-sync.yml](.github/workflows/wiki-sync.yml)); preview locally with `python3 scripts/build_wiki.py <dir>` |
 
 ### 5. Secrets
 

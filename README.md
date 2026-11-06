@@ -52,6 +52,8 @@
 - [Markdown](./Markdown.md): Lightweight markup language for creating formatted text
 
 ## Maintaining these lessons
+Browse the lessons as a [wiki](https://github.com/actuarialsociety/ds-training/wiki). It is regenerated from this repo on every merge to `main`.
+
 This repo is set up for [Claude Code](./Claude%20Code%20-%20Basic.md) to find and maintain lessons, using [Exa](https://exa.ai/docs/get-started/agent-skills/overview) agent skills for search. Rules are in [AGENTS.md](./AGENTS.md).
 1. `cp .env.example .env` and add an [Exa API key](https://dashboard.exa.ai/api-keys), or `export EXA_API_KEY=...`
 2. In Claude Code:

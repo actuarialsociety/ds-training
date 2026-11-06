@@ -1,0 +1,42 @@
+name: Wiki sync
+
+# Publishes the lesson Markdown files to the GitHub wiki on every push to main.
+# The repo is the source of truth; scripts/build_wiki.py generates the wiki.
+# One-time setup: open the repo's Wiki tab and save any first page, which
+# creates the wiki's git repo. This workflow overwrites that page.
+
+on:
+  push:
+    branches: [main]
+    paths: ["*.md", "scripts/build_wiki.py", ".github/workflows/wiki-sync.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wiki-sync
+  cancel-in-progress: false
+
+jobs:
+  wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check out wiki
+        run: |
+          git clone "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.wiki.git" wiki
+      - name: Build pages
+        run: python3 scripts/build_wiki.py wiki
+      - name: Publish
+        working-directory: wiki
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Wiki already up to date"; exit 0; fi
+          git commit -m "Sync wiki from ${{ github.sha }}"
+          git push
