@@ -15,10 +15,17 @@ still work and keep each lesson short.
 - Every new lesson has a **Follow-along** section that points at a real GitHub
   repo or notebook (Colab link where possible). It gives 3 to 6 concrete steps
   the learner types and runs.
-- 3 to 6 videos per lesson. Choose official channels first (Anthropic, Hugging
-  Face, Google, NVIDIA, Microsoft/VS Code, the library's own maintainers),
-  then trusted educators (StatQuest and similar). Pick recent, short videos over
-  long or old ones.
+- **Videos must teach by coding.** In each main video, the presenter writes and
+  runs code on screen (a code-along, live coding or notebook walkthrough).
+  Prefer videos that link their notebook or repo, and link it next to the
+  video. Put whiteboard or slide explainers (e.g. StatQuest) and announcements
+  in a one-line *Background (optional)* list under Content, not as main videos.
+- 3 to 6 main videos per lesson. Among code-along videos, prefer official
+  channels (Anthropic, Hugging Face, Google, NVIDIA, Microsoft/VS Code, the
+  library's maintainers), then well-viewed educators. Prefer recent videos,
+  and videos with an insurance or finance example when one exists.
+- Intermediate and Advanced lessons may add a short **Key concepts** section
+  (3 to 6 bullets) between Objectives and Content.
 - Follow [`.claude/skills/build-lesson/template.md`](.claude/skills/build-lesson/template.md)
   for the layout and the video block format. The existing lessons use the same
   format, so keep new and edited lessons consistent with them.

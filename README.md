@@ -29,9 +29,19 @@
 - [Google Colab](./Google%20Colab.md): Notebooks in the browser, free T4 GPU, Drive, Gemini; your first GPU
 - [GPUs & Acceleration](./GPUs%20%26%20Acceleration.md): Why GPUs help; zero-code-change speed-ups for pandas, scikit-learn and XGBoost
 
+## Hugging Face
+- [Hugging Face - Basic](./Hugging%20Face%20-%20Basic.md): The Hub, model cards & licences, pipelines and datasets on insurance text
+- [Hugging Face - Intermediate](./Hugging%20Face%20-%20Intermediate.md): Tokenizers, fine-tuning a claims-message classifier, pushing to the Hub, semantic search
+- [Hugging Face - Advanced](./Hugging%20Face%20-%20Advanced.md): LoRA, 4-bit quantisation, Inference Providers, Spaces, agents on claims data
+
 ## Machine Learning on Tabular Data
 - [Tabular ML - Gradient Boosting](./Tabular%20ML%20-%20Gradient%20Boosting.md): XGBoost, CatBoost & LightGBM, the gold standard for structured data
 - [Tabular ML - Foundation Models](./Tabular%20ML%20-%20Foundation%20Models.md): TabPFN, TabFM, LimiX & TableGPT2: zero-shot prediction and text-to-table LLMs
+
+## Data Pipelines with Kedro
+- [Kedro - Basic](./Kedro%20-%20Basic.md): Nodes, pipelines, Data Catalog, Kedro-Viz; a claims-frequency pipeline
+- [Kedro - Intermediate](./Kedro%20-%20Intermediate.md): Parameters, environments, namespaces (champion vs challenger), factories, versioning, testing
+- [Kedro - Advanced](./Kedro%20-%20Advanced.md): Hooks, data validation, MLflow-tracked GLM, runners, Docker, Airflow, GenAI nodes
 
 ## Source Control
 - [Git in VS Code](./Git%20in%20VSCode.md): Using Git version control within VS Code
