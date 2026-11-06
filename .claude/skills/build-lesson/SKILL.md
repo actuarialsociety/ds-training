@@ -40,9 +40,15 @@ curl -sS -X POST "https://api.exa.ai/search" \
 - Add the vendor name to the query (e.g. "Anthropic official", "Hugging Face
   channel") to bias towards official channels; confirm via oEmbed `author_name`.
 - If `EXA_API_KEY` is unset, use the WebSearch tool and say so in your summary.
-- Shortlist candidates. Favour official channels, recent uploads, runtimes
-  under 20 minutes and a hands-on demo. Drop clickbait, reaction videos and
-  anything that only sells a course.
+- Phrase queries as *"code along / live coding / notebook walkthrough"*. The
+  presenter must write and run code on screen. Theory explainers go in the
+  *Background (optional)* line, never in the main video list.
+- Shortlist candidates. Favour official channels, recent uploads, a linked
+  notebook or repo, and insurance or finance examples. Drop clickbait, reaction
+  videos and anything that only sells a course.
+- Exa's page text for YouTube is just the site's footer. To read a candidate's
+  description (repo links, length, channel), fetch the watch page and parse
+  `ytInitialPlayerResponse.videoDetails`.
 
 Then verify the shortlist and generate the blocks in one step:
 

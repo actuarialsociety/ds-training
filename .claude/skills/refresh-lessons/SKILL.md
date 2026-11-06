@@ -48,6 +48,9 @@ Also check for each lesson:
   official changelog or docs.
 - Does the follow-along repo still exist, and do its steps still match it?
   Check with `gh repo view` and by reading the files.
+- Main videos must be code-alongs, with the presenter writing and running
+  code. Replace any concept-only video in the main list with a code-along and
+  move the old one to the *Background (optional)* line.
 - Swap a video only when the new one is clearly better: more current, official,
   shorter or more hands-on. Move what it replaces under `## Older content`.
   Keep 3 to 6 videos in the main section.

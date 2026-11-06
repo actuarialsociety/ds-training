@@ -8,6 +8,11 @@
 - Verb-led, testable outcome (e.g. "Train an XGBoost model on a claims dataset")
 - 3 to 5 bullets
 
+# Key concepts
+*(Optional: use for Intermediate and Advanced lessons, or wherever a short explanation saves a confused learner.)*
+- **Concept**: one or two sentences in plain language, with the actuarial angle where there is one
+- 3 to 6 bullets; the videos go deeper
+
 # Content
 * [Official docs page](https://example.com/docs): what to read there
 
