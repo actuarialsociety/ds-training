@@ -1,0 +1,43 @@
+name: Lesson refresh
+
+# Monthly: Claude Code runs the refresh-lessons skill (Exa search + link checks)
+# and opens a PR for a human to review. Needs repo secrets ANTHROPIC_API_KEY
+# and EXA_API_KEY. Run it by hand from the Actions tab with a specific lesson.
+
+on:
+  schedule:
+    - cron: "0 6 1 * *" # 1st of each month, 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "Lesson file to refresh, or 'all'"
+        default: "all"
+
+permissions:
+  contents: write
+  pull-requests: write
+  id-token: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: anthropics/claude-code-action@v1
+        env:
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            REPO: ${{ github.repository }}
+            Run the refresh-lessons skill (.claude/skills/refresh-lessons/SKILL.md)
+            for target: ${{ github.event.inputs.target || 'all' }}.
+            Use today's date for "Last reviewed".
+            When done, and only if files changed, create branch
+            lesson-refresh/${{ github.run_id }}, commit, push, and open a PR
+            with `gh pr create` whose body is your per-lesson summary.
+          claude_args: |
+            --max-turns 60
+            --allowedTools "Read,Edit,Write,Glob,Grep,Skill,Bash(python3 scripts/*),Bash(curl:*),Bash(jq:*),Bash(gh repo view:*),Bash(gh api:*),Bash(gh pr create:*),Bash(git:*)"

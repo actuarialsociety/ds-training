@@ -1,5 +1,5 @@
 # Prerequisites
-- [Python Basics](./Python2%-2%Basic.md)
+- [Python Basics](./Python%20-%20Basic.md)
 
 # Objectives
 - Comfort with intermediate data science tools in Python
