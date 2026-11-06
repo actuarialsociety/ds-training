@@ -1,9 +1,9 @@
-<img src="https://www.actuarialsociety.org.za/wp-content/uploads/2024/01/ASSA-LOGO-20224-e1704698493878.png" width="500" >
+<img src="https://raw.githubusercontent.com/actuarialsociety/ds-training/main/assets/assa-logo.png" alt="Actuarial Society of South Africa" width="500">
 
 # `ds-training` 
 > *A collection of open-source training material for actuaries (or anyone) to up-skill in data science*
 > * *[VS Code](https://code.visualstudio.com/) is used to enhance developer experience; the correct extensions can make a world of difference!*
-> * *AI code assistants and agents, such as [Claude Code](https://code.claude.com/docs/en/overview), [GitHub Copilot](https://github.com/features/copilot) or [Continue](https://www.continue.dev/), are essential tools for learning*
+> * *AI code assistants and agents, such as [Claude Code](https://code.claude.com/docs/en/overview) or [GitHub Copilot](https://github.com/features/copilot), are essential tools for learning*
 > * *Every lesson is **video-driven** with a **repo to code along in**. Lessons are kept current by Claude Code (see [Maintaining these lessons](#maintaining-these-lessons))*
 
 ![](https://media.giphy.com/media/zIOdLMZDcBDc2gk6vV/giphy.gif?cid=790b76115z20caqim0bzt56valpecg67mpo2wh0kazib6z0u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
@@ -11,7 +11,6 @@
 ## Core Skills
 - [Python - Basic](./Python%20-%20Basic.md): VS Code setup & Python basics
 - [GitHub Copilot](./GitHub%20Copilot.md): Leading commercial AI code assistant
-- [Continue](./Continue.md) (Optional): Leading open-source AI code assistant
 - [Terminal in Windows](./Terminal%20in%20Windows.md): Command-line interface with Windows
 - [Terminal in Mac](./Terminal%20in%20Mac.md): Command-line interface with MacOS
 - [Windows Subsystem for Linux](./Windows%20Subsystem%20Linux.md) (Optional): Linux on Windows; Linux is developer standard ￫ what servers run!
